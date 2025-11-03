@@ -26,7 +26,7 @@ This tutorial will guide you through some post-installation tips and configurati
 <h2 align="center">Creating new items in osTicket</h2>
 
 <p>After logging into your osTicket Control Panel as admin, add a new role named "Supreme Admin" by accessing Agents > Roles > Add New Role
-<br><img src="https://github.com/user-attachments/assets/e43dcf16-fbb3-4a19-ac37-e77cc2345292" height="75%" width="100%"/>
+<br><img src="https://github.com/user-attachments/assets/4961e43b-8b7f-4920-bcd0-30c33b0696ba" height="75%" width="100%"/>
 <br/>
 
 </p>
@@ -73,4 +73,4 @@ This tutorial will guide you through some post-installation tips and configurati
 <br/>
 </p>
 
-We've created these users, departments, roles, agents, and SLAs to create mock help desk environment where we can simulate working tickets to completion. Just following these configurations alone with help you understanding the pipeline and lifecycle of tickets, along with learning key access points that you may need to access later should any Panel issues occur.
+You're all set! We've created these users, departments, roles, agents, and SLAs to create mock help desk environment where we can simulate working tickets to completion. Just following these configurations alone with help you understanding the pipeline and lifecycle of tickets, along with learning key access points that you may need to access later should any Panel issues occur.
