@@ -23,7 +23,7 @@ This tutorial will guide you through some post-installation tips and configurati
 - <b>Windows 10 Enterprise (22H2) virtual machine setup through Azure</b>
 - <b>osTicket installed on Windows 10 client with active session open through IIS & HeidiSQL</b>
 
-<h2 align="center">Installing IIS with CGI</h2>
+<h2 align="center">Creating new items in osTicket</h2>
 
 <p>After logging into your osTicket Control Panel as admin, add a new role named "Supreme Admin" by accessing Agents > Roles > Add New Role
 <br><img src="https://github.com/user-attachments/assets/e43dcf16-fbb3-4a19-ac37-e77cc2345292" height="75%" width="100%"/>
